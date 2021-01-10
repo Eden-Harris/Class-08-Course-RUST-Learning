@@ -1,0 +1,12 @@
+/Users/eden/rust/rustlings/target/release/deps/proc_macro2-0cb32eb423c34fc1.rmeta: /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/lib.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/marker.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/parse.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/detection.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/fallback.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/wrapper.rs
+
+/Users/eden/rust/rustlings/target/release/deps/libproc_macro2-0cb32eb423c34fc1.rlib: /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/lib.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/marker.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/parse.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/detection.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/fallback.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/wrapper.rs
+
+/Users/eden/rust/rustlings/target/release/deps/proc_macro2-0cb32eb423c34fc1.d: /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/lib.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/marker.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/parse.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/detection.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/fallback.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/wrapper.rs
+
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/lib.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/marker.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/parse.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/detection.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/fallback.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.24/src/wrapper.rs:

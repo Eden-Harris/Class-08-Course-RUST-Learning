@@ -1,0 +1,13 @@
+/Users/eden/rust/rustlings/target/release/deps/quote-e89ae34c9334116a.rmeta: /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/eden/rust/rustlings/target/release/deps/libquote-e89ae34c9334116a.rlib: /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/eden/rust/rustlings/target/release/deps/quote-e89ae34c9334116a.d: /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs /Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs
+
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/lib.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ext.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/format.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/ident_fragment.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/to_tokens.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/runtime.rs:
+/Users/eden/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.8/src/spanned.rs:
