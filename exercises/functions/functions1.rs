@@ -3,6 +3,10 @@
 
 // I AM NOT DONE
 
+fn call_me(value:i32)->i32{
+    value
+}
+
 fn main() {
     call_me();
 }
